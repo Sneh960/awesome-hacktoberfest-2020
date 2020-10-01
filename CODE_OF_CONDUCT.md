@@ -44,3 +44,6 @@ This Code of Conduct is adapted from the [Contributor Covenant][homepage], versi
 
 [homepage]: http://contributor-covenant.org
 [version]: http://contributor-covenant.org/version/1/4/
+
+##Event Code of Conduct
+Hacktoberfest meetups are welcoming, open, and inclusive. Include this line on your meetup page: "Please read our Events Code of Conduct before attending. Happy hacking!"
