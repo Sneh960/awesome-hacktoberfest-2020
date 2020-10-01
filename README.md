@@ -112,9 +112,7 @@
 
 - [hacktoberfest - npm](https://github.com/ziyaddin/hacktoberfest)
 
-## Meetups and Events
 
-See all meetups and events [here](https://hacktoberfest.digitalocean.com/events)
 
 ## License
 
